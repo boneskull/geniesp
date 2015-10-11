@@ -1,0 +1,13 @@
+{
+  "wifi": {
+    "ssid": "YOUR SSID",
+    "password": "your password"
+  },
+  "mailbox": {
+    "host": "HOST IP ADDRESS",
+    "port": 12345,
+    "resetPin": 1,
+    "switchPin": 2,
+    "secure": false
+  }
+}
